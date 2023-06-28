@@ -324,3 +324,6 @@ Bilibili 视频上手教程：
 ## 如何获取本仓库资料
 
 在 [前端从进阶到入院](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/15d5bd203bc3499c8b40b996595803cb~tplv-k3u1fbpfcp-zoom-1.image) 里回复「资料」，即可领取本文配套的**源码电子书、面试重要资料**，源码是本文学习的重点章节，面试资料也已经帮助上千人拿到 Offer。
+
+
+![qrcode_for_gh_d2b31290dd8b_258](https://user-images.githubusercontent.com/23615778/134800856-9a44fa9a-4f1b-4884-a0b6-b58c5f3331df.jpg)
