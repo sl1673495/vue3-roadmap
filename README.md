@@ -14,7 +14,7 @@
 
 **笔者已经将仓库内容里的重要资料整理在公众号「前端从进阶到入院」，还附赠了帮助上千人拿到 offer 的面经。大家可以关注公众号发送「资料」获取。**
 
-![qrcode_for_gh_d2b31290dd8b_258](https://user-images.githubusercontent.com/23615778/134800856-9a44fa9a-4f1b-4884-a0b6-b58c5f3331df.jpg)
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bf0f3ef7927d4a268eb386fcd3b62358~tplv-k3u1fbpfcp-watermark.image?)
 
 ## 入门
 
